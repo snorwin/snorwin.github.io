@@ -1,0 +1,18 @@
+theme = "hallo"
+
+[Author]
+    name = "Norwin"
+
+[params]
+    [params.colors]
+        background = "#2e2e2e"
+        foreground = "#d6d6d6"
+        hover = "#b05279"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/snorwin"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/norwin-schnyder"
